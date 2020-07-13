@@ -1,0 +1,54 @@
+body {
+  margin: 0;
+
+  text-align: center;
+  font-family: 'Monda', sans-serif;
+}
+
+h1 {
+  margin: 0;
+  font-family: 'Galada', cursive;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+    background-color: #e4f9f5;
+}
+
+.middle-container {
+
+}
+
+.bottom-container {
+
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bot-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.logo {
+  max-width: 150%;
+  max-height: 150%;
+}
